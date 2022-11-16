@@ -5,3 +5,4 @@ Siempre estoy abierto a sugerencias nuevas, tanto de nuevos proyectos como de me
 Todo esto lo hago porque tengo mucho tiempo y me aburro.
 Todos mis proyectos están bajo la licencia GNU General Public License v3.0 (GPL3).
 
+PARA SUGERENCIAS ABRIR UN ISSUE
